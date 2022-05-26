@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 Right now, I'm building out my personal website before I begin the search for my first software engineering job. I'm also gearing up to move to State College, PA with my partner. 
 
 While I was at YSU, I directed [HackYSU 2021 & 2022](https://hackysu.com) and I was the VP of the [YSU Computer Club](https://ysucomputerclub.com), and I look forward to supporting the new officers as an alumnus.
+
+Connect with me on [LinkedIn](https://linkedin.com/in/ryanlalchand)!
