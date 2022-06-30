@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ryan!
 
-Right now, I'm building out my personal website before I begin the search for my first software engineering job. I'm also gearing up to move to State College, PA with my partner. 
+Right now, I'm doing freelance while I search for my first software engineering job. I'm also gearing up to move to State College, PA with my partner.
+
+My current project is the Code Youngstown [website redesign](https://github.com/codeyoungstown/next-codeyoungstown.com) in Next.js and Tailwind.
 
 While I was at YSU, I directed [HackYSU 2021 & 2022](https://hackysu.com) and I was the VP of the [YSU Computer Club](https://ysucomputerclub.com), and I look forward to supporting the new officers as an alumnus.
 
