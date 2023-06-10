@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ryan!
 
-I'm a remote Junior Software Developer at NuWorks using Flutter and AWS. 
+I'm a Junior Software Developer at NuWorks using Flutter and AWS. 
 
 Connect with me on [LinkedIn](https://linkedin.com/in/ryanlalchand)!
