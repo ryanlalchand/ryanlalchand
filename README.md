@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ryan!
 
-I just relocated to State College, PA while my partner gets her PhD, and started a position as a Junior Software Developer at NuWorks, focusing on Flutter, AWS, and GraphQL. 
+I'm a remote Junior Software Developer at NuWorks using Flutter and AWS. 
 
 Connect with me on [LinkedIn](https://linkedin.com/in/ryanlalchand)!
