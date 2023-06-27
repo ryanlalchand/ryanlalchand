@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 I'm a Junior Software Developer at NuWorks using Flutter and AWS. 
 
 Connect with me on [LinkedIn](https://linkedin.com/in/ryanlalchand)!
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9188ad54-69d5-4fa0-8097-2b0903030b29" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
