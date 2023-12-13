@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ryan!
 
-I'm a Junior Software Developer at NuWorks using Flutter and AWS. 
+I'm a Software Developer at GIE Media. I have prior experience with Flutter and Next.js/React.js, but now learning ASP.NET MVC. 
 
 Connect with me on [LinkedIn](https://linkedin.com/in/ryanlalchand)!
 
